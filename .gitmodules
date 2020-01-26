@@ -4,3 +4,6 @@
 [submodule "rabbitMQ-listener"]
 	path = rabbitMQ-listener
 	url = https://github.com/nitinkc/rabbitMQ-listener.git
+[submodule "RabbitMQ-Configurer"]
+	path = RabbitMQ-Configurer
+	url = https://github.com/nitinkc/RabbitMQ-Configurer.git
