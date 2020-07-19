@@ -1,6 +1,6 @@
-[submodule "rabbitMQ-client"]
-	path = rabbitMQ-client
-	url = https://github.com/nitinkc/rabbitMQ-client.git
+[submodule "rabbitMQ-producer"]
+	path = rabbitMQ-producer
+	url = https://github.com/nitinkc/rabbitMQ-producer.git
 [submodule "rabbitMQ-listener"]
 	path = rabbitMQ-listener
 	url = https://github.com/nitinkc/rabbitMQ-listener.git
