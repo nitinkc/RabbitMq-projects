@@ -7,3 +7,6 @@
 [submodule "RabbitMQ-Configurer"]
 	path = RabbitMQ-Configurer
 	url = https://github.com/nitinkc/RabbitMQ-Configurer.git
+[submodule "AsyncRestCalls"]
+	path = AsyncRestCalls
+	url = https://github.com/nitinkc/AsyncRestCalls.git
